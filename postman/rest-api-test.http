@@ -1,0 +1,6 @@
+GET {{host-url}}/api/messages
+Content-Type: application/json
+
+{
+}
+
